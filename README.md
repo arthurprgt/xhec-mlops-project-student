@@ -36,9 +36,11 @@ You can download the dataset on the [Kaggle page](https://www.kaggle.com/dataset
 - [Tips to work on this project](#tips-to-work-on-this-project)
 
 ## Work with the app locally
-Clone the [repository](https://github.com/arthurprgt/xhec-mlops-project-student), create the environment with conda
-and download the data, from root of the repository.
-By rinning once by once :
+ - Clone the [repository](https://github.com/arthurprgt/xhec-mlops-project-student) in the folder you want.
+ - Create the environment with conda and install the dependencies.
+ - Download the data, from root of the repository.
+
+By running once by once :
 ```
 git clone https://github.com/arthurprgt/xhec-mlops-project-student
 cd xhec-mlops-project-student
