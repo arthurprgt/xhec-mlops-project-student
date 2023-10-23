@@ -5,15 +5,21 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "xhec-mlops-project-student"
 authors = [
-  { name = "username", email = "user@email.com" },
-] # TODO: add authors here
+  { name = "arigqt", email = "aristide.gasquet@hec.edu" },
+  { name = "tlepic", email = "theophile.lepic@hec.edu" },
+  { name = "gplassais", email = "guillaume.plassais@hec.edu" },
+  { name = "mattmrq", email = "matthieu.marquis-lorber@hec.edu" },
+  { name = "guillaumedherouville", email = "guillaume.d-herouville@hec.edu" },
+  { name = "arthurprgt", email = "arthur.perrigot@hec.edu
+" }
+]
 description = "This repository contains the solution for the X-HEC MLOps Project on the industrialization of Abalone age prediction model."
 version = "0.0.1"
 readme = "README.md"
 requires-python = ">=3.9"
 
 [project.urls]
-"Homepage" = "https://github.com/artefactory/xhec-mlops-project-student" # TODO: update this URL
+"Homepage" = "https://github.com/arthurprgt/xhec-mlops-project-student"
 
 [tool.setuptools]
 packages = ["src", "config"]
