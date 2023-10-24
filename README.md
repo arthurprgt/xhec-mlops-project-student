@@ -13,7 +13,7 @@
 
 This repository has for purpose to industrialize the [Abalone age prediction](https://www.kaggle.com/datasets/rodolfomendes/abalone-dataset) Kaggle contest.
 
-### Team
+### Team 4
 **Arthur Perrigot - Théophile Lepic - Aristide Gasquet - Guillaume Plassais - Matthieu Marquis--Lorber - Guillaume d'Hérouville**
 Respectively :
  - arthurprgt
